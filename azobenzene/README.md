@@ -8,7 +8,7 @@ A classic example of a molecular photoswitch is **azobenzene**, which can underg
 The absorption characteristics of azobenzene — and how they are altered by protonation or substitution — make it an ideal system for studying **structure–property relationships** in excited-state chemistry.
 
 In this practical course, we will use **excited state simulations** to explore how these factors influence the absorption behavior of azobenzene and its derivatives. 
-The calculations will primarily rely on Time-Dependent Density Functional Theory (TD-DFT), with an optional comparison to wavefunction-based methods for more accurate results.
+The calculations will primarily rely on **Time-Dependent Density Functional Theory (TD-DFT)**, with an optional comparison to wavefunction-based methods for more accurate results.
 
 ## Goals
 
