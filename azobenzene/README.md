@@ -201,7 +201,7 @@ Indicate the type of light (predicted absorption wavelength) required for each t
 ## Extra* / Ideas for Last Day Projects
 (* not mandatory)
 
-### Calculate pKa values
+### a) Calculate pKa values
 
 Compute the **pKa** values of *E*- and *Z*-AB as well as *E*- and *Z*-MY. The **experimental pKa of MY** was determined to be **3.3**.
 Can theory reprocude this value? Which isomer is associated with that value: *E*, *Z* or a mixture?
@@ -209,7 +209,7 @@ Can theory reprocude this value? Which isomer is associated with that value: *E*
 - [This tutorial might provide useful information](https://pogorelov.scs.illinois.edu/wp-content/uploads/2019/09/pKa_Estimations_Tutorial_web.pdf)
 - [This article might help you](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202303167)
 
-### Compare DFT and wavefuntion methods
+### b) Compare DFT and wavefuntion methods
 
 While TD-DFT is often successful in predicting excited-state properties, its accuracy depends heavily on the choice of functional. 
 Unfortunately, there is no universal way to determine in advance which functional will perform best for a given system — different functionals can yield significantly different results.
