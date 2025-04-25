@@ -80,9 +80,9 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > 
 > To display the charge density differences, you need to display the surface of the elctron hole and electron excess of a transition.
 > To this end, go to `Graphics > Representation`. This will open a menu.
-> Click the button `Create Rep`, select as the Drawing Method from the Dropdown Menu `Isosurface` and adapt the Isovalue, e.g. use 0.0015.
+> Click the button `Create Rep`, select as the Drawing Method from the Dropdown Menu `Isosurface` and adapt the Isovalue, e.g. use 0.001.
 > Change the color of the surface by Choosing in the Coloring Method dropdown menu `Color ID` and choose an ID in the newly appearing dropdown menu, *e.g.* `32` for yellow.
-> Repeat these steps, and use the isovalue from before but as negative number, *e.g.*, -0.0015 and select a different color, e.g. `23` for blue.
+> Repeat these steps, and use the isovalue from before but as negative number, *e.g.*, -0.001 and select a different color, e.g. `23` for blue.
 > 
 > This shows you your molecule with the two electron densities, whereas in the respective selected transition electron density is shifted (in this example) from blue to yellow.
 > This visualization will help you to assess the nature of the electronic transition.
