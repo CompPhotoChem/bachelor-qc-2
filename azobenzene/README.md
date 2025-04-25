@@ -19,7 +19,7 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 ## Calculations
 ### Part I: Absorption Properties of Azobenzene and its Protonated Forms
 
-<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/AB_ABH%2B.png" width="400px" />
+<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/AB_ABH%2B_black.png" width="400px" />
 
 
 |      | Task                                      | Solvent        | Method         | Notes                                 |
