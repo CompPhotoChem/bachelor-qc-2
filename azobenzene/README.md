@@ -134,7 +134,7 @@ Discuss the following points:
 ## Calculations — Part II
 
 In this part, we will study the pH-dependent absorption properties of **Methyl Yellow (MY)**, a derivative of AB in which one of the benzene rings is para-substituted with a dimethylamino group.
-This electron-donating substituent significantly alters the molecule’s electronic structure and absorption behavior, especially under varying pH conditions. 
+This electron-donating substituent significantly alters the molecule’s electronic structure and absorption behavior, especially under varying pH conditions.
 We will examine how such substitution affects the absorption spectrum, using the same calculation strategy as in the previous section and performing the TDDFT simulations listed below.
 
 Under **acidic conditions**, MY can undergo protonation at two distinct sites:
@@ -143,6 +143,9 @@ Under **acidic conditions**, MY can undergo protonation at two distinct sites:
 - At the azo nitrogen, forming an **azonium**-type ion.
 
 These two protonated forms are tautomers with distinct electronic structures and absorption features. 
+
+<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/MY_MYH%2B.png" width="400px" />
+
 Your task is to simulate and compare the absorption spectra of both isomers to determine which species is primarily responsible for visible-light absorption at low pH, to gain 
 insight into how protonation site and electronic substitution modulate excited-state properties in AB-type dyes.
 
