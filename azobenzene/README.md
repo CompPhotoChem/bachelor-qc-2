@@ -134,15 +134,14 @@ Discuss the following points:
 ## Calculations — Part II
 
 In this part, we will study the absorption pH-dependent absorption properties of a molecule closely related to AB, namely Methyl yellow (MY), examine the effect of electron-donating substituents on the absorption spectrum of AB.
-To this end, follow the previous calculation strategy and perform the following listed calculations.
+To this end, follow the previous calculation strategy and perform the following listed TDDFT calculations.
+The equilibrium geometries of all isomers and tautomers are provided [here]().
 
-|      | Task                                      | Solvent        | Method         | Notes                                 |
-|------|-------------------------------------------|----------------|----------------|---------------------------------------|
-| 13,14 | Structure optimization <br> $S_0^{min}$ of *E*- & *Z*-MY     | Acetonitrile (CPCM)  | B3LYP/def2-TZVP | Ground-state equilibrium geometries |
-| 15,16 | Structure optimization  <br> $S_0^{min}$ of *E*- & *Z*-MYH+  | Acetonitrile (CPCM)  | B3LYP/def2-TZVP | Azonium tautomers |
-| 17,18 | Structure optimization  <br> $S_0^{min}$ of *E*- & *Z*-MYH+  | Acetonitrile (CPCM)  | B3LYP/def2-TZVP | Ammonium tautomers |
-| 19,20 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MY |
-| 21,22 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (azonium) |
-| 23,24 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (ammonium) |
+|       | Task                                      | Solvent        | Method         | Notes                                 |
+|-------|-------------------------------------------|----------------|----------------|---------------------------------------|
+| 13,14 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MY |
+| 15,16 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (azonium) |
+| 17,18 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (ammonium) |
+
 
 
