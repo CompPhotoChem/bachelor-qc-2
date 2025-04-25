@@ -112,24 +112,49 @@ To investigate such a solvatochromism, we will calculate in this part of the exc
 
 <br>
 
-## Results — Part I
+## Results and Discussion — Part I
 
-Compile for the two lowest optical excitations, i.e., S<sub>0</sub>→S<sub>1</sub> and S<sub>0</sub>→S<sub>2</sub> for the four studied species in gas and acetonitrile the following properties:
-
-- vertical excitation energies,
-- oscillator strengths,
-- dipole moments
-- nature of the transition (image of the respective CDD) 
+> [!IMPORTANT]
+> Compile for the two lowest optical excitations, i.e., S<sub>0</sub>→S<sub>1</sub> and S<sub>0</sub>→S<sub>2</sub> for the four studied species in gas and acetonitrile the following properties:
+> 
+>  - vertical excitation energies,
+>  - oscillator strengths,
+>  - dipole moments
+>  - nature of the transition (image of the respective CDD)
+>  
 
 Discuss the following points:
 
-- What is the impact of isomerization?
-    - Compare the vertical excitation energies and oscillator strengths between the *E*/*Z*-isomers: Which isomer absorbs stronger at lower energies (higher wavelengths)?
-    - One of the isomers has a much brighter (higher osc. strength) nπ* transition than the other, how to rationalize this? (Tip: Compare the dipole momements of the ground and excited states)
+### Part I.a Gas-phase
 
-- What is the impact of solvent?
-    - Compare the energies of the excited states when calculated with and without solvent methods (Are states red- or blue-shifted, i.e., stabilized or destabilized by solvent?)
-    - Compare the nature of the transitions associated with S<sub>1</sub> and S<sub>2</sub> (Does the solvent affect the state ordering?)
+<details>
+<summary><strong>What is the impact of isomerization?</strong></summary>
+<br>
+Compare the vertical excitation energies and oscillator strengths between the *E*/*Z*-isomers (gas): Which isomer absorbs stronger at lower energies (higher wavelengths), why?
+<br><br>
+One of the isomers has a much brighter (higher osc. strength) nπ* transition than the other, how to rationalize this? (Tip: Compare the dipole momements of the ground and excited states)
+</details>
+
+<details>
+<summary><strong>What is the impact of protonation?</strong></summary>
+<br>
+Compare the absorption properties of *E*-AB and *E*-ABH+ as well as *Z*-AB and *Z*-ABH+. Discuss how protonation influences the absorption behavior of each isomer.
+<br>
+<br>
+As illustrated in Figure 1, experimental data show that protonation causes a shift in the excitation wavelength required for photoisomerization: the E→Z transition 
+moves from the UV to the visible region, while the Z→E transition shifts from the visible back to the UV. Does your computational data reproduce this trend at the current level of theory?
+</details>
+
+### Part I.b Solvent
+
+<details>
+<summary><strong>What is the impact of solvent? </strong></summary>
+<br>
+Compare the energies of the excited states when calculated with and without solvent methods (Are states red- or blue-shifted, i.e., stabilized or destabilized by solvent?)
+<br>
+<br>
+Compare the nature of the transitions associated with S<sub>1</sub> and S<sub>2</sub> (Does the solvent affect the state ordering?)
+</details>
 
 ## Calculations — Part II
 
@@ -149,8 +174,6 @@ These two protonated forms are tautomers with distinct electronic structures and
 Your task is to simulate and compare the absorption spectra of both isomers to determine which species is primarily responsible for visible-light absorption at low pH, to gain 
 insight into how protonation site and electronic substitution modulate excited-state properties in AB-type dyes.
 
-
-
 |       | Task                                      | Solvent        | Method         | Notes                                 |
 |-------|-------------------------------------------|----------------|----------------|---------------------------------------|
 | 13,14 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MY |
@@ -158,4 +181,14 @@ insight into how protonation site and electronic substitution modulate excited-s
 | 17,18 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (ammonium) |
 
 *The equilibrium geometries of all isomers and tautomers are provided [here]().
+
+## Results — Part II
+
+Compile for the six calculated absorption spectra the same properties as for the first part. Decide which electronic states are relevant based on their oscillator strength.
+
+Discuss the following points:
+
+- What is the effect of the auxochrom (Dimethyl-amino group) on the absorption properties of the neutral and charged isomers?
+- Which tautomer, azonium or ammonium, absorbs at lower energy? How to rationalize this?
+
 
