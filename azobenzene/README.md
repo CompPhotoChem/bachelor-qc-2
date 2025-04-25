@@ -130,7 +130,7 @@ Discuss the following points:
 <details>
 <summary><strong>What is the impact of isomerization?</strong></summary>
 <br>
-Compare the vertical excitation energies and oscillator strengths between the *E*/*Z*-isomers (gas): Which isomer absorbs stronger at lower energies (higher wavelengths), why?
+Compare the vertical excitation energies and oscillator strengths between the <i>E</i>/<i>Z</i>-isomers (gas): Which isomer absorbs stronger at lower energies (higher wavelengths), why?
 <br><br>
 One of the isomers has a much brighter (higher osc. strength) nπ* transition than the other, how to rationalize this? (Tip: Compare the dipole momements of the ground and excited states)
 </details>
