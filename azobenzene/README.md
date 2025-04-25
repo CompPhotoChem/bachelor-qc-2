@@ -86,7 +86,7 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > 
 > This shows you your molecule with the two electron densities, whereas in the respective selected transition electron density is shifted (in this example) from blue to yellow.
 > This visualization will help you to assess the nature of the electronic transition.
-> Below you find a GIF illustrating these steps at the example of the $S_1$ and $S_2$ state of *E*-AB.
+> Below you find a GIF illustrating these steps at the example of the $S_1$ and $S_2$ state of *E*-AB (in vacuum).
 >
 > <details>
 > <summary><strong>🎥 Visualizing a CDD from a cube file with VMD</strong></summary>
