@@ -35,6 +35,34 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 
 > [!IMPORTANT]  
 > Analysis of Results:
-> ...
+> Generation of charge density differences with Multiwfn:
+>
+> In a first step, you need to convert the orbital files `*.gbw` to `*.molden` files using the ```orca6_2mkl``` function, *e.g.*, 
+> ```bash
+> orca6_2mkl td_ss_E-AB_gas -molden 
+> ```
+> Next, start Multiwfn and load the `*.molden` file, e.g., run the following in a terminal:
+> 
+> ```
+> multiwfn td_ss_E-AB_gas.molden
+> ```
+>
+> This will open a menu, where you navigate by typing numbers or strings into the terminal.
+> To generate a charge density difference cube file, the subsequent choices are listed below:
+> 
+> ```
+> 18        #Electron excitation analysis
+> 1         #Analyze and visualize hole-electron distribution, transition dipole moment and transition density
+> 'outfile' #Input the path of the Gaussian/ORCA output file or plain text file containing excitation data, e.g. C:\a.out
+> 'state'   #There are N transitions, analyze which one?  e.g. 2
+> 1         #Visualize and analyze hole, electron and transition density and so on
+> 2         #High quality grid  , covering whole system, about vieeeeele points in total
+> 15        #Output cube file of charge density difference to current folder
+> 0         #Return
+> 0         #Return
+> 0         #Return
+> # repeat for all states of interest
+> (-10      #Exit)
+> ```
 >
 
