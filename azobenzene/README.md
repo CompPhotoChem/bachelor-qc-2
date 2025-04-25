@@ -79,7 +79,7 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > Below you find a GIF illustrating these steps at the example of the $S_1$ state of *E*-AB.
 >
 > <details>
-> <summary><strong>Visualizing a CDD from a cube file with VMD</strong></summary>
+> <summary><strong>🎥 Visualizing a CDD from a cube file with VMD</strong></summary>
 > <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/vmd_cdds.gif" width="1000px" />
 > </details>
 > 
