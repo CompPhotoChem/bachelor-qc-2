@@ -41,7 +41,7 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > 
 > <details>
 > <summary><strong>Step 1: Generating cube files with Multiwfn </strong></summary>
-> 
+> <br>
 > We will generation the charge density differences from the TD-DFT outputs using [Multiwfn](http://sobereva.com/multiwfn/).
 > To this end, you firstly need to convert the orbital files `*.gbw` to `*.molden` files using the ```orca6_2mkl``` function, *e.g.*, 
 > ```bash
@@ -74,7 +74,7 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > 
 > <details>
 > <summary><strong>Step 2: Visualizing CDDs from cube files with VMD </strong></summary>
-> 
+> <br>
 > To visualize the `*.cub` files, you can use VMD.
 > You can open VMD form ther terminal, by simply typing `vmd`.
 > 
