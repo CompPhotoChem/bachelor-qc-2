@@ -194,4 +194,16 @@ Discuss the following points:
 - What is the effect of the auxochrom (Dimethyl-amino group) on the absorption properties of the neutral and charged isomers?
 - Which tautomer, azonium or ammonium, absorbs at lower energy? How to rationalize this?
 
+**Summary**: Create a schematic similar to Figure 1 (used for azobenzene) that illustrates which wavelengths can induce the *E*→*Z* and *Z*→*E* isomerization in MY and its protonated forms MYH⁺. 
+Include both protonated tautomers — the **ammonium** ion and the **azonium** ion — in your comparison. 
+Indicate the type of light (predicted absorption wavelength) required for each transition, and clearly differentiate between the isomerization pathways for each species.
+
+## Extra*
+(* not mandatory)
+
+Compute the pKa values of *E*- and *Z*-AB as well as *E*- and *Z*-MY. The experimental pKa of MY was determined to be 3.3.
+Can theory reprocude this value? Which isomer is associated with that value: *E*, *Z* or a mixture?
+
+- [This tutorial might provide useful information](https://pogorelov.scs.illinois.edu/wp-content/uploads/2019/09/pKa_Estimations_Tutorial_web.pdf)
+- [This article might help you](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202303167)
 
