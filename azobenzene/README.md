@@ -112,7 +112,7 @@ To investigate such a solvatochromism, we will calculate in this part of the exc
 
 ## Results
 
-Compile for the two lowest optical excitations, i.e., S<sub>0</sub>→S<sub>1</sub> and S<sub>0</sub>→S<sub>2</sub> for the four studied species in gas and acetonitrile the followign properties:
+Compile for the two lowest optical excitations, i.e., S<sub>0</sub>→S<sub>1</sub> and S<sub>0</sub>→S<sub>2</sub> for the four studied species in gas and acetonitrile the following properties:
 
 - vertical excitation energies,
 - oscillator strengths,
