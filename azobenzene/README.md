@@ -201,7 +201,7 @@ Indicate the type of light (predicted absorption wavelength) required for each t
 ## Extra*
 (* not mandatory)
 
-Compute the pKa values of *E*- and *Z*-AB as well as *E*- and *Z*-MY. The experimental pKa of MY was determined to be 3.3.
+Compute the **pKa** values of *E*- and *Z*-AB as well as *E*- and *Z*-MY. The **experimental pKa of MY** was determined to be **3.3**.
 Can theory reprocude this value? Which isomer is associated with that value: *E*, *Z* or a mixture?
 
 - [This tutorial might provide useful information](https://pogorelov.scs.illinois.edu/wp-content/uploads/2019/09/pKa_Estimations_Tutorial_web.pdf)
