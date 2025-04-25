@@ -10,17 +10,19 @@ The absorption characteristics of azobenzene — and how they are altered by pro
 In this practical course, we will use **excited state simulations** to explore how these factors influence the absorption behavior of azobenzene and its derivatives. 
 The calculations will primarily rely on Time-Dependent Density Functional Theory (TD-DFT), with an optional comparison to wavefunction-based methods for more accurate results.
 
-<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/AB_ABH%2B_black.png" width="400px" />
-
 ## Goals
 
 - Learn how to perform (static) excited state simulations in [ORCA](https://www.faccts.de/docs/orca/5.0/tutorials/spec/UVVis.html)
 - Calculate excited states in solution (implicit solvation)
 - Compare DFT and wave function based methods
 
-## Calculations
+## Calculations — Part I
 
-### Part I: Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (gas)
+In the first part, we will focus on the *E/Z*-isomers of azobenzene (*E/Z*-AB) and their mono-protonated forms (*E/Z*-ABH+), as visualized below:
+
+<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/AB_ABH%2B_black.png" width="400px" />
+
+### I.a) Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (gas)
 
 |      | Task                                      | Solvent        | Method         | Notes                                 |
 |------|-------------------------------------------|----------------|----------------|---------------------------------------|
@@ -93,7 +95,7 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > </details>
 >
 
-### Part II: Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (acetonitrile)
+### I.b) Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (acetonitrile)
 
 As seen above the main, low-energy absorption bands of the investigated azobenzene dyes are of nπ* and ππ* character.
 Naturally, these transitions are characterized by different transition dipoles, in other words, the nπ* transition is more localized than the ππ* transition as apparent from the CDDs.
@@ -110,7 +112,7 @@ To investigate such a solvatochromism, we will calculate in this part of the exc
 
 <br>
 
-## Results
+## Results — Part I
 
 Compile for the two lowest optical excitations, i.e., S<sub>0</sub>→S<sub>1</sub> and S<sub>0</sub>→S<sub>2</sub> for the four studied species in gas and acetonitrile the following properties:
 
@@ -118,7 +120,6 @@ Compile for the two lowest optical excitations, i.e., S<sub>0</sub>→S<sub>1</s
 - oscillator strengths,
 - dipole moments
 - nature of the transition (image of the respective CDD) 
-
 
 Discuss the following points:
 
@@ -129,4 +130,19 @@ Discuss the following points:
 - What is the impact of solvent?
     - Compare the energies of the excited states when calculated with and without solvent methods (Are states red- or blue-shifted, i.e., stabilized or destabilized by solvent?)
     - Compare the nature of the transitions associated with S<sub>1</sub> and S<sub>2</sub> (Does the solvent affect the state ordering?)
+
+## Calculations — Part II
+
+In this part, we will study the absorption pH-dependent absorption properties of a molecule closely related to AB, namely Methyl yellow (MY), examine the effect of electron-donating substituents on the absorption spectrum of AB.
+To this end, follow the previous calculation strategy and perform the following listed calculations.
+
+|      | Task                                      | Solvent        | Method         | Notes                                 |
+|------|-------------------------------------------|----------------|----------------|---------------------------------------|
+| 13,14 | Structure optimization <br> $S_0^{min}$ of *E*- & *Z*-MY     | Acetonitrile (CPCM)  | B3LYP/def2-TZVP | Ground-state equilibrium geometries |
+| 15,16 | Structure optimization  <br> $S_0^{min}$ of *E*- & *Z*-MYH+  | Acetonitrile (CPCM)  | B3LYP/def2-TZVP | Azonium tautomers |
+| 17,18 | Structure optimization  <br> $S_0^{min}$ of *E*- & *Z*-MYH+  | Acetonitrile (CPCM)  | B3LYP/def2-TZVP | Ammonium tautomers |
+| 19,20 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MY |
+| 21,22 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (azonium) |
+| 23,24 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (ammonium) |
+
 
