@@ -1,4 +1,4 @@
-!B3LYP D3BJ def2-SVP def2/J OPT FREQ
+!B3LYP D3BJ def2-TZVP OPT FREQ
 
 *xyz 0 1
   C      -0.403458      3.409703      0.413408
