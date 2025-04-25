@@ -1,0 +1,7 @@
+!B3LYP D3BJ def2-SVP def2/J
+%TDDFT
+   NROOTS    30
+   TDA       False
+   Triplets  False
+END
+* XYZFILE 0 1 td_ss_E-AB_gas.xyz
