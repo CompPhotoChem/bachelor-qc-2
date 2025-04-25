@@ -187,7 +187,10 @@ insight into how protonation site and electronic substitution modulate excited-s
 
 ## Results — Part II
 
-Compile for the six calculated absorption spectra the same properties as for the first part. Decide which electronic states are relevant based on their oscillator strength.
+> [!IMPORTANT]
+> Compile for the six calculated absorption spectra the same properties as for the first part.
+> Decide which electronic states are relevant based on their oscillator strength.
+> 
 
 Discuss the following points:
 
