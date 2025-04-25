@@ -76,6 +76,9 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > This visualization will help you to assess the nature of the electronci transition.
 > Below you find a GIF illustrating these steps at the example of the $S_1$ state of *E*-AB.
 >
+> <details>
+> <summary><strong>Visualizing a CDD from a cube file with VMD</strong></summary>
 > <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/AB_ABH%2B_black.png" width="400px" />
+> </details>
 > 
 
