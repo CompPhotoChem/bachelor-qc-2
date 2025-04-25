@@ -53,8 +53,8 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > ```
 > 18        #Electron excitation analysis
 > 1         #Analyze and visualize hole-electron distribution, transition dipole moment and transition density
-> 'outfile' #Input the path of the Gaussian/ORCA output file or plain text file containing excitation data, e.g. C:\a.out
-> 'state'   #There are N transitions, analyze which one?  e.g. 2
+> 'outfile' #Input the path of the ORCA output file
+> 'state'   #There are N transitions, analyze which one?  e.g. 1 (for S1)
 > 1         #Visualize and analyze hole, electron and transition density and so on
 > 2         #High quality grid  , covering whole system, about vieeeeele points in total
 > 15        #Output cube file of charge density difference to current folder
