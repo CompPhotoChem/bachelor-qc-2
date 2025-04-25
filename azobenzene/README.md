@@ -12,8 +12,8 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 
 ## Goals
 
-- Learn how to perform (static) excited state simulations in ORCA
-- Calculate excited states in solution
+- Learn how to perform (static) excited state simulations in [ORCA](https://www.faccts.de/docs/orca/5.0/tutorials/spec/UVVis.html)
+- Calculate excited states in solution (implicit solvation)
 - Compare DFT and wave function based methods
 
 ## Calculations
@@ -28,11 +28,10 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 | 9,10  | Excited State Calculations | -  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-ABH$^+$ |
 | 11,12 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-ABH$^+$ |
 
+<br>
 
+> [!IMPORTANT]  
+> Analysis of Results:
+> ...
+>
 
-In this section, we focus on the E and Z isomers of azobenzene, examining how their absorption spectra change with protonation. We will:
-
-- Optimize the ground-state geometries of each isomer.
-- Compute vertical excitation energies and oscillator strengths at the TD-DFT level.
-
-    Analyze how protonation influences the nature and intensity of the lowest-energy transitions.
