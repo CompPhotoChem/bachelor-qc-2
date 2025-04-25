@@ -138,11 +138,11 @@ One of the isomers has a much brighter (higher osc. strength) nπ* transition th
 <details>
 <summary><strong>What is the impact of protonation?</strong></summary>
 <br>
-Compare the absorption properties of *E*-AB and *E*-ABH+ as well as *Z*-AB and *Z*-ABH+. Discuss how protonation influences the absorption behavior of each isomer.
+Compare the absorption properties of <i>E</i>-AB and <i>E</i>-ABH+ as well as <i>Z</i>-AB and <i>Z</i>-ABH+. Discuss how protonation influences the absorption behavior of each isomer.
 <br>
 <br>
-As illustrated in Figure 1, experimental data show that protonation causes a shift in the excitation wavelength required for photoisomerization: the E→Z transition 
-moves from the UV to the visible region, while the Z→E transition shifts from the visible back to the UV. Does your computational data reproduce this trend at the current level of theory?
+As illustrated in Figure 1, experimental data show that protonation causes a shift in the excitation wavelength required for photoisomerization: the <i>E</i>→<i>Z</i> transition 
+moves from the UV to the visible region, while the <i>Z</i>→<i>E</i> transition shifts from the visible back to the UV. Does your computational data reproduce this trend at the current level of theory?
 </details>
 
 ### Part I.b Solvent
