@@ -1,4 +1,4 @@
-# Excited-State Simulations of Molecular Photoswitches
+# Excited-State Simulations of Azobenzene-type Photoswitches
 ## Introduction
 
 **Photoswitches** are molecules that can reversibly change their structure upon exposure to light. 
