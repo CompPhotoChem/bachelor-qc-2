@@ -109,3 +109,24 @@ To investigate such a solvatochromism, we will calculate in this part of the exc
 *Use the vacuum geometries without further re-optimization.
 
 <br>
+
+## Results
+
+Compile for the two lowest optical excitations, i.e., S<sub>0</sub>→S<sub>1</sub> and S<sub>0</sub>→S<sub>2</sub> for the four studied species in gas and acetonitrile the followign properties:
+
+- vertical excitation energies,
+- oscillator strengths,
+- dipole moments
+- nature of the transition (image of the respective CDD) 
+
+
+Discuss the following points:
+
+- What is the impact of isomerization?
+    - Compare the vertical excitation energies and oscillator strengths between the *E*/*Z*-isomers: Which isomer absorbs stronger at lower energies (higher wavelengths)?
+    - One of the isomers has a much brighter (higher osc. strength) nπ* transition than the other, how to rationalize this? (Tip: Compare the dipole momements of the ground and excited states)
+
+- What is the impact of solvent?
+    - Compare the energies of the excited states when calculated with and without solvent methods (Are states red- or blue-shifted, i.e., stabilized or destabilized by solvent?)
+    - Compare the nature of the transitions associated with S<sub>1</sub> and S<sub>2</sub> (Does the solvent affect the state ordering?)
+
