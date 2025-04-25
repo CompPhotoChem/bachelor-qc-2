@@ -80,7 +80,7 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 >
 > <details>
 > <summary><strong>Visualizing a CDD from a cube file with VMD</strong></summary>
-> <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/vmd_cdds.gif" width="800px" />
+> <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/vmd_cdds.gif" width="1000px" />
 > </details>
 > 
 
