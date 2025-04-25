@@ -34,7 +34,13 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 <br>
 
 > [!IMPORTANT]  
-> ## Charge Density Differences
+> ## Charge Density Differences (CDDs)
+>
+> A charge density difference (also called electron density difference) is a visualization that shows how the electron density changes when a molecule transitions between two states — here between the ground state and an excited state.
+> In simple terms, it tells you where electrons are coming from and going to during a photoexcitation.
+> 
+> <details>
+> <summary><strong>Step 1: Generating cube files with Multiwfn </strong></summary>
 > 
 > We will generation the charge density differences from the TD-DFT outputs using [Multiwfn](http://sobereva.com/multiwfn/).
 > To this end, you firstly need to convert the orbital files `*.gbw` to `*.molden` files using the ```orca6_2mkl``` function, *e.g.*, 
@@ -64,7 +70,11 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > # repeat for all states of interest
 > (-10      #Exit)
 > ```
->
+> </details>
+> 
+> <details>
+> <summary><strong>Step 2: Visualizing CDDs from cube files with VMD </strong></summary>
+> 
 > To visualize the `*.cub` files, you can use VMD.
 > You can open VMD form ther terminal, by simply typing `vmd`.
 > 
@@ -82,5 +92,6 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > <summary><strong>🎥 Visualizing a CDD from a cube file with VMD</strong></summary>
 > <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/vmd_cdds.gif" width="1000px" />
 > </details>
-> 
+> </details>
+>
 
