@@ -17,19 +17,18 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 - Compare DFT and wave function based methods
 
 ## Calculations
-### Part I: Absorption Properties of Azobenzene and its Protonated Forms
+
+### Part I: Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (gas)
 
 <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/AB_ABH%2B_black.png" width="400px" />
 
 
 |      | Task                                      | Solvent        | Method         | Notes                                 |
 |------|-------------------------------------------|----------------|----------------|---------------------------------------|
-| 1,2   | Structure optimization <br> $S_0^{min}$ of *E*- & *Z*-AB  | -              | B3LYP/def2-TZVP |  Ground-state equilibrium geometries |
-| 3,4   | Excited State Calculations | -  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-AB |
-| 5,6   | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-AB |
-| 7,8     | Structure optimization  <br> $S_0^{min}$ of *E*- & *Z*-ABH+  | -              | B3LYP/def2-TZVP | Ground-state equilibrium geometry,<br> use minimum geometry of the <br> unprotonated isomers as starting point |
-| 9,10  | Excited State Calculations | -  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-ABH$^+$ |
-| 11,12 | Excited State Calculation | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-ABH$^+$ |
+| 1,2  | Structure optimization <br> $S_0^{min}$ of *E*- & *Z*-AB     | -  | B3LYP/def2-TZVP |  Ground-state equilibrium geometries |
+| 3,4  | Structure optimization  <br> $S_0^{min}$ of *E*- & *Z*-ABH+  | -  | B3LYP/def2-TZVP | Ground-state equilibrium geometry,<br> use minimum geometry of the <br> unprotonated isomers as starting point |
+| 5,6  | Excited State Calculations | -  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*-/*Z*-AB |
+| 7,8  | Excited State Calculations | -  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*-/*Z*-ABH+ |
 
 <br>
 
@@ -95,3 +94,20 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > </details>
 >
 
+
+### Part II: Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (acetonitrile)
+
+As seen above the main, low-energy absorption bands of the investigated azobenzene dyes are of $n\pi^*$ and $\pi\pi^*$ character.
+Naturally, these transitions are characterized by different transition dipoles, in other words, the $n\pi^*$ transition is more localized than the $\pi\pi^*$ transition as apparent from the CDDs.
+Thus, the energetic position of the excited state is assumed to strongly depend on the solvent polarity.
+To investigate such a solvatochromism, we will calculate in this part of the excercise the absorption properties of the fours species in a solvent environment as modelled by an implicit solvent model.
+
+
+|      | Task                                      | Solvent        | Method         | Notes                                 |
+|------|-------------------------------------------|----------------|----------------|---------------------------------------|
+| 9,10  | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-AB |
+| 11,12 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-ABH+ |
+
+*Use the vacuum geometries without further re-optimization.
+
+<br>
