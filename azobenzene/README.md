@@ -95,8 +95,8 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 
 ### Part II: Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (acetonitrile)
 
-As seen above the main, low-energy absorption bands of the investigated azobenzene dyes are of $n\pi^*$ and $\pi\pi^*$ character.
-Naturally, these transitions are characterized by different transition dipoles, in other words, the $n\pi^*$ transition is more localized than the $\pi\pi^*$ transition as apparent from the CDDs.
+As seen above the main, low-energy absorption bands of the investigated azobenzene dyes are of nπ* and ππ* character.
+Naturally, these transitions are characterized by different transition dipoles, in other words, the nπ* transition is more localized than the ππ* transition as apparent from the CDDs.
 Thus, the energetic position of the excited state is assumed to strongly depend on the solvent polarity.
 To investigate such a solvatochromism, we will calculate in this part of the excercise the absorption properties of the fours species in a solvent environment as modelled by an implicit solvent model.
 
