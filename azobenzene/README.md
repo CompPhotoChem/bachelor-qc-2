@@ -12,9 +12,10 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 
 ## Goals
 
-- Learn how to perform (static) excited state simulations in [ORCA](https://www.faccts.de/docs/orca/5.0/tutorials/spec/UVVis.html)
+- Learn how to perform TDDFT simulations in [ORCA](https://www.faccts.de/docs/orca/5.0/tutorials/spec/UVVis.html)
 - Calculate excited states in solution (implicit solvation)
-- Compare DFT and wave function based methods
+- Visualize Charge Density Differences (CDDs)
+- Explore how the electronic absorption properties depend on the spatial configuration (*E/Z*-isomers) and electronic effects (induced by protonation and introduction of substituents)
 
 ## Calculations — Part I
 
