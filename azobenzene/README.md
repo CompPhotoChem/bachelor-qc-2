@@ -10,6 +10,8 @@ The absorption characteristics of azobenzene — and how they are altered by pro
 In this practical course, we will use **excited state simulations** to explore how these factors influence the absorption behavior of azobenzene and its derivatives. 
 The calculations will primarily rely on Time-Dependent Density Functional Theory (TD-DFT), with an optional comparison to wavefunction-based methods for more accurate results.
 
+<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/AB_ABH%2B_black.png" width="400px" />
+
 ## Goals
 
 - Learn how to perform (static) excited state simulations in [ORCA](https://www.faccts.de/docs/orca/5.0/tutorials/spec/UVVis.html)
@@ -19,9 +21,6 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 ## Calculations
 
 ### Part I: Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (gas)
-
-<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/img/AB_ABH%2B_black.png" width="400px" />
-
 
 |      | Task                                      | Solvent        | Method         | Notes                                 |
 |------|-------------------------------------------|----------------|----------------|---------------------------------------|
@@ -93,7 +92,6 @@ The calculations will primarily rely on Time-Dependent Density Functional Theory
 > </details>
 > </details>
 >
-
 
 ### Part II: Absorption Properties of *E*-/*Z*-AB and *E*-/*Z*-ABH+ (acetonitrile)
 
