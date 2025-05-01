@@ -17,7 +17,7 @@ feel free to reach out to us in advance to discuss feasibility and scope.
     <td align="center">
       <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/pKa_values">
         <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/pKa_values/project_pKa.png" width="250"><br>
-        pKa values of dyes
+        pKa values of azobenzene- <br> type dyes
       </a>
     </td>
   </tr>
