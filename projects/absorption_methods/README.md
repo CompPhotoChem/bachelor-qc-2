@@ -27,7 +27,7 @@ You can work with the optimized structures from the [previous TD-DFT exercise](h
 | 3,4  | Excited State Calculations | Acetonitrile  | *e.g.* [STEOM-CCSD/def2TZVP](https://www.faccts.de/docs/orca/5.0/tutorials/spec/UVVis.html) | Absorption spectra of *E*-/*Z*-MYH+ |
 
 
-The experimental absorption spectrum of E-MY can be found [here]().
+The experimental absorption spectrum of E-MY can be found [here](https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/azobenzene/abs_AB_MY_benzene.dat).
 You can plot the spectrum alongside your results e.g. with python (see below), Scidavis, etc.
 
 <details>
