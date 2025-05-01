@@ -1,6 +1,6 @@
 ## B. Sc. Quantum Chemistry II - Computer Exercises
 
-This repository contains prepared and tested input and output files for the practical computer exercises supervised by [Prof. Carolin Müller](https://www.chemie.nat.fau.de/person/carolin-mueller/).
+This repository contains the instructions for the practical computer exercises supervised by [Prof. Carolin Müller](https://www.chemie.nat.fau.de/person/carolin-mueller/).
 
 This repository provides pre-tested input and output files to support each exercise.
 Each exercise is organized in its own folder and includes a `README` file with:
