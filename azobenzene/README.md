@@ -29,10 +29,10 @@ In the first part, we will focus on the *E/Z*-isomers of azobenzene (*E/Z*-AB) a
 
 |      | Task                                      | Solvent        | Method         | Notes                                 |
 |------|-------------------------------------------|----------------|----------------|---------------------------------------|
-| 1,2  | Structure optimization <br> $S_0^{min}$ of *E*- & *Z*-AB     | -  | B3LYP/def2-TZVP |  Ground-state equilibrium geometries |
-| 3,4  | Structure optimization  <br> $S_0^{min}$ of *E*- & *Z*-ABH+  | -  | B3LYP/def2-TZVP | Ground-state equilibrium geometry,<br> use minimum geometry of the <br> unprotonated isomers as starting point |
-| 5,6  | Excited State Calculations | -  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*-/*Z*-AB |
-| 7,8  | Excited State Calculations | -  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*-/*Z*-ABH+ |
+| 1,2  | Structure optimization <br> $S_0^{min}$ of *E*- & *Z*-AB     | -  | B3LYP/def2-TZVP, D3 |  Ground-state equilibrium geometries |
+| 3,4  | Structure optimization  <br> $S_0^{min}$ of *E*- & *Z*-ABH+  | -  | B3LYP/def2-TZVP, D3 | Ground-state equilibrium geometry,<br> use minimum geometry of the <br> unprotonated isomers as starting point |
+| 5,6  | Excited State Calculations | -  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*-/*Z*-AB |
+| 7,8  | Excited State Calculations | -  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*-/*Z*-ABH+ |
 
 <br>
 
@@ -108,8 +108,8 @@ To investigate such a solvatochromism, we will calculate in this part of the exc
 
 |      | Task                                      | Solvent        | Method         | Notes                                 |
 |------|-------------------------------------------|----------------|----------------|---------------------------------------|
-| 9,10  | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-AB |
-| 11,12 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-ABH+ |
+| 9,10  | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*- and *Z*-AB |
+| 11,12 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*- and *Z*-ABH+ |
 
 *Use the vacuum geometries without further re-optimization.
 
@@ -179,9 +179,9 @@ insight into how protonation site and electronic substitution modulate excited-s
 
 |       | Task                                      | Solvent        | Method         | Notes                                 |
 |-------|-------------------------------------------|----------------|----------------|---------------------------------------|
-| 13,14 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MY |
-| 15,16 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (azonium) |
-| 17,18 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP | Absorption spectra of *E*- and *Z*-MYH+ (ammonium) |
+| 13,14 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*- and *Z*-MY |
+| 15,16 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*- and *Z*-MYH+ (azonium) |
+| 17,18 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*- and *Z*-MYH+ (ammonium) |
 
 *The equilibrium geometries of all isomers and tautomers are provided [here]().
 
