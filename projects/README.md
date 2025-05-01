@@ -12,9 +12,9 @@ feel free to reach out to us in advance to discuss feasibility and scope.
 <table>
   <tr>
     <td align="center">
-      <a href="./topic1_excited_state_ML/">
-        <img src="./topic1_excited_state_ML/thumbnail.png" width="150"><br>
-        Excited-State ML Potentials
+      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/absorption_methods">
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/absorption_methods/project_AB_abs.png" width="250px"><br>
+        UV/Vis Spectra at different <br> computational levels
       </a>
     </td>
     <td align="center">
