@@ -13,38 +13,15 @@ feel free to reach out to us in advance to discuss feasibility and scope.
   <tr>
     <td align="center">
       <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/absorption_methods">
-        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/absorption_methods/project_AB_abs.png" width="250px"><br>
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/absorption_methods/project_AB_abs.png" width="250"><br>
         UV/Vis Spectra at different <br> computational levels
       </a>
     </td>
     <td align="center">
-      <a href="./topic2_descriptors/">
-        <img src="./topic2_descriptors/thumbnail.png" width="150"><br>
-        Molecular Descriptors
+      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/pKa_values">
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/pKa_values/project_pKa.png" width="250"><br>
+        pKa values of dyes
       </a>
-    </td>
-    <td align="center">
-      <a href="./topic3_kernels/">
-        <img src="./topic3_kernels/thumbnail.png" width="150"><br>
-        Kernel Methods
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="./topic4_absorption/">
-        <img src="./topic4_absorption/thumbnail.png" width="150"><br>
-        Absorption Spectra
-      </a>
-    </td>
-    <td align="center">
-      <a href="./topic5_data_curation/">
-        <img src="./topic5_data_curation/thumbnail.png" width="150"><br>
-        Data Curation for ML
-      </a>
-    </td>
-    <td align="center">
-      <!-- Empty cell or add more topics -->
     </td>
   </tr>
 </table>
