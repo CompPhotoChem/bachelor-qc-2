@@ -6,9 +6,6 @@ feel free to reach out to us in advance to discuss feasibility and scope.
 
 ## Suggested Topics
 
-- [UVvis absorption spectrum of azobenzene derivatives at wavefunction level of theory](https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/photochemistry.md)
-- [Caluculation of pKa of protonated azobenzene derivatives]()
-
 <table>
   <tr>
     <td align="center">
