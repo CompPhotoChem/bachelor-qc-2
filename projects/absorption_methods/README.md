@@ -15,6 +15,8 @@ Compare the computed absorption features (such as vertical excitation energies, 
 - compute electronic absorption spectra of E/Z-azobenzene at wavefunction level of theory
 - compare results from TDDFT and wavefunction methods
 
+<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/absorption_methods/project_AB_abs.png" width="300px" />
+
 ## Calculations
 
 You can work with the optimized structures from the [previous TD-DFT exercise](https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/azobenzene).
