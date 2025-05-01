@@ -8,3 +8,43 @@ feel free to reach out to us in advance to discuss feasibility and scope.
 
 - [UVvis absorption spectrum of azobenzene derivatives at wavefunction level of theory](https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/photochemistry.md)
 - [Caluculation of pKa of protonated azobenzene derivatives]()
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="./topic1_excited_state_ML/">
+        <img src="./topic1_excited_state_ML/thumbnail.png" width="150"><br>
+        Excited-State ML Potentials
+      </a>
+    </td>
+    <td align="center">
+      <a href="./topic2_descriptors/">
+        <img src="./topic2_descriptors/thumbnail.png" width="150"><br>
+        Molecular Descriptors
+      </a>
+    </td>
+    <td align="center">
+      <a href="./topic3_kernels/">
+        <img src="./topic3_kernels/thumbnail.png" width="150"><br>
+        Kernel Methods
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./topic4_absorption/">
+        <img src="./topic4_absorption/thumbnail.png" width="150"><br>
+        Absorption Spectra
+      </a>
+    </td>
+    <td align="center">
+      <a href="./topic5_data_curation/">
+        <img src="./topic5_data_curation/thumbnail.png" width="150"><br>
+        Data Curation for ML
+      </a>
+    </td>
+    <td align="center">
+      <!-- Empty cell or add more topics -->
+    </td>
+  </tr>
+</table>
