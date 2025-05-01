@@ -46,7 +46,7 @@ In the first part, we will focus on the *E/Z*-isomers of azobenzene (*E/Z*-AB) a
 > <summary><strong>Step 1: Generating cube files with Multiwfn </strong></summary>
 > <br>
 > We will generation the charge density differences from the TD-DFT outputs using <a href='http://sobereva.com/multiwfn/'>Multiwfn</a>.
-> To this end, you firstly need to convert the orbital files *.gbw to *.molden files using the orca6_2mkl function, <i>e.g.</i>, 
+> To this end, you firstly need to convert the orbital files `*.gbw` to `*.molden` files using the `orca6_2mkl` function, <i>e.g.</i>, 
 >
 > ```bash
 > orca_2mkl td_ss_E-AB_gas -molden 
