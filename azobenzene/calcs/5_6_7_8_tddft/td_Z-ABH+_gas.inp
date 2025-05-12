@@ -4,4 +4,4 @@
    TDA       False
    Triplets  False
 END
-* XYZFILE 0 1 td_Z-ABH+_gas.xyz
+* XYZFILE 1 1 td_Z-ABH+_gas.xyz
