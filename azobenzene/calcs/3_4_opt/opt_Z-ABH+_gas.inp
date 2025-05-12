@@ -1,0 +1,5 @@
+!B3LYP D3BJ def2-TZVP OPT FREQ
+
+*xyz 1 1
+# add geometry, use optimized GS geom of Z-isomer with added proton
+*
