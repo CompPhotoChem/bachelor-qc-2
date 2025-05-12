@@ -184,7 +184,7 @@ insight into how protonation site and electronic substitution modulate excited-s
 | 15,16 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*- and *Z*-MYH+ (azonium) |
 | 17,18 | Excited State Calculation* | Acetonitrile (CPCM)  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra of *E*- and *Z*-MYH+ (ammonium) |
 
-*The equilibrium geometries of all isomers and tautomers are provided [for E- and Z-MY](https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/azobenzene/calcs/13_14_tddft_MY), [Z-MYH+ (azonium)](https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/azobenzene/calcs/15_16_opt_tddft), and [Z-MYH+ (ammonium)](https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/azobenzene/calcs/17_18_opt_tddft).
+*The equilibrium geometries of all isomers and tautomers are provided for [E- and Z-MY](https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/azobenzene/calcs/13_14_tddft_MY), [Z-MYH+ (azonium)](https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/azobenzene/calcs/15_16_opt_tddft), and [Z-MYH+ (ammonium)](https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/azobenzene/calcs/17_18_opt_tddft).
 
 ## Results — Part II
 
