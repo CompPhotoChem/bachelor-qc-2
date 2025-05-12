@@ -1,7 +1,0 @@
-!B3LYP D3BJ def2-TZVP CPCM(ACETONITRILE)
-%TDDFT
-   NROOTS    20
-   TDA       False
-   Triplets  False
-END
-* XYZFILE 1 1 td_Z-ABH+_ACN.xyz # use optimized gas geometry
