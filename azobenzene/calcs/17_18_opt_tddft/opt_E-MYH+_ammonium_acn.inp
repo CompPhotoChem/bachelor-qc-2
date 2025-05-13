@@ -1,6 +1,0 @@
-!B3LYP D3BJ def2-TZVP CPCM(ACETONITRILE) OPT FREQ
-
-*xyz 1 1
-# enter geometry here
-# use optimum geometry of E-MY and add proton
-*
