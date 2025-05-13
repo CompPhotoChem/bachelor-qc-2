@@ -80,7 +80,7 @@ In the first part, we will focus on the *E/Z*-isomers of azobenzene (*E/Z*-AB) a
 > <summary><strong>Step 2: Visualizing CDDs from cube files with VMD </strong></summary>
 > <br>
 > To visualize the `*.cub` files, you can use VMD.
-> You can open VMD form ther terminal, by simply typing `vmd`.
+> You can open VMD form ther terminal, by simply typing `vmd193`.
 > 
 > To display the charge density differences, you need to display the surface of the elctron hole and electron excess of a transition.
 > To this end, go to `Graphics > Representation`. This will open a menu.
