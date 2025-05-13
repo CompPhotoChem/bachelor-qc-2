@@ -66,7 +66,7 @@ In the first part, we will focus on the *E/Z*-isomers of azobenzene (*E/Z*-AB) a
 > 'outfile' #Input the path of the ORCA output file
 > 'state'   #There are N transitions, analyze which one?  e.g. 1 (for S1)
 > 1         #Visualize and analyze hole, electron and transition density and so on
-> 2         #High quality grid  , covering whole system, about vieeeeele points in total
+> 2         #Medium quality grid  , covering whole system, about vieeeeele points in total
 > 15        #Output cube file of charge density difference to current folder
 > 0         #Return
 > 0         #Return
