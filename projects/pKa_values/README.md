@@ -1,5 +1,9 @@
 # Calculation of pKa values
 
+**supervisors:** Prof. Carolin Müller, Dr. Nico van Eikema Hommes
+
+-----
+
 In the previous [TD-DFT exercise](https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/azobenzene), we studied the absorption spectra of the neutral and protonated forms of methyl yellow (MY), 
 observing a color change from yellow (neutral) to red (protonated) with decreasing pH.
 
