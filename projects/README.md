@@ -9,11 +9,19 @@ feel free to reach out to us in advance to discuss feasibility and scope.
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/proton_transfer">
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/proton_transfer/proton_transfer.png" width="250"><br>
+       proton transfer in mixed dimers <br> and trimers of HF and H<sub>2</sub>O
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/absorption_methods">
         <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/absorption_methods/project_AB_abs.png" width="250"><br>
         UV/Vis Spectra at different <br> computational levels
       </a>
     </td>
+    </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/pKa_values">
         <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/pKa_values/project_pKa.png" width="250"><br>
