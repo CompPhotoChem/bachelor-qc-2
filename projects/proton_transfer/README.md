@@ -1,6 +1,6 @@
 # Proton transfer in mixed dimers and trimers of HF and H<sub>2</sub>O
 
-**supervisor:** Dr. Nico van Eikema Hommes.
+**supervisor:** Dr. Nico van Eikema Hommes
 
 ----- 
 
