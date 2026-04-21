@@ -49,7 +49,7 @@ In the first part, we will focus on the *E/Z*-isomers of azobenzene (*E/Z*-AB) a
 > To this end, you firstly need to convert the orbital files `*.gbw` to `*.molden` files using the `orca6_2mkl` function, <i>e.g.</i>, 
 >
 > ```bash
-> orca_2mkl td_ss_E-AB_gas -molden 
+> orca6_2mkl td_ss_E-AB_gas -molden 
 > ```
 > Next, start Multiwfn and load the `*.molden` file, e.g., run the following in a terminal:
 > 
