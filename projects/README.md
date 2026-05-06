@@ -4,7 +4,7 @@ This folder contains a list of potential topics for the final project of the QC 
 Please select one of the suggested topics below. If you have your own idea or want to explore a specific direction, 
 feel free to reach out to us in advance to discuss feasibility and scope.
 
-## Suggested Topics
+## Topics
 
 <table>
   <tr>
