@@ -5,6 +5,13 @@
 
 ----
 
+
+## Goals
+
+- compute the pKa-values of protonated dyes
+- compare computed and measured pKa
+- compare the pKa values of isomers
+
 |      | Task                                      | Solvent        | Method         | Notes                                 |
 |------|-------------------------------------------|----------------|----------------|---------------------------------------|
 | 1 | Structure optimization <br> $S_0^{min}$ of *E*-isomer   | Benzene  | B3LYP/def2-TZVP, D3 |  Ground-state equilibrium geometries |
