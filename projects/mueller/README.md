@@ -1,6 +1,7 @@
-# Substituent Effects on the ππ* Absorption Features of Benzene
+# Abschlussprojekt 2
+## Substituent Effects on the ππ* Absorption Features of Benzene
 
-Abschlussprojekt 2, Prof. Carolin Müller
+**supervisor:** Prof. Carolin Müller
 
 ----
 
