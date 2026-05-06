@@ -1,6 +1,7 @@
-# Zustandsdichte und Bandstruktur von Carbiden
+# Abschlussprojekt 4
+## Zustandsdichte und Bandstruktur von Carbiden
 
-Abschlussprojekt 4, Dr. Christian Neiß
+**supervisor**: Dr. Christian Neiß
 
 ----
 
