@@ -30,7 +30,7 @@ feel free to reach out to us in advance to discuss feasibility and scope.
     </td>
     <td align="center">
       <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/nano_science">
-        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/nano_science/project_nano_science.png" width="250"><br>
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/SoSe-2025/projects/nano_science/project_nano_science.png" width="250"><br>
         density of states & <br> band structure
       </a>
     </td>
