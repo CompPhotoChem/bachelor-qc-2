@@ -9,23 +9,23 @@ feel free to reach out to us in advance to discuss feasibility and scope.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/proton_transfer">
+      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/hommes">
         <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/proton_transfer/proton_transfer.png" width="250"><br>
        proton transfer in mixed dimers <br> and trimers of HF and H<sub>2</sub>O
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/absorption_methods">
-        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/absorption_methods/project_azo-dye_abs.png" width="250"><br>
-        UV/Vis Spectra at different <br> computational levels
+      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/mueller">
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/mueller/project_sbfs.png" width="250"><br>
+        Substituent Effects on the <br> ππ* absorption of benzenes
       </a>
     </td>
     </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/pKa_values">
-        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/pKa_values/project_pKa_gray.png" width="250"><br>
-        pKa values of azobenzene- <br> type dyes
+      <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/imhof">
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/imhof/imhof.png" width="250"><br>
+        test <br> test
       </a>
     </td>
     <td align="center">
