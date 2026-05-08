@@ -20,9 +20,10 @@ You may use the following substituents:
 | -OCH<sub>3</sub> (methoxy) | -CF<sub>3</sub> (trifluormethyl) | -CN (cyano) |
 
 
-- compute the pKa-values of protonated dyes
-- compare computed and measured pKa
-- compare the pKa values of isomers
+- compute the absorption spectra of two dyes: one mono- and one di-substituted benzol using one or two substituents from the list above
+- compare the computed pi-pi* absorption maxima and explain the differences
+- How to achieve di-substituted benzene with most red-absorbing substitution from the above list?
+
 
 |      | Task                                      | Solvent        | Method         | Notes                                 |
 |------|-------------------------------------------|----------------|----------------|---------------------------------------|
