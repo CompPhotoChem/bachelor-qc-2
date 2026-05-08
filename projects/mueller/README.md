@@ -6,7 +6,19 @@
 ----
 
 
-## Goals
+## Introduction and Goal
+
+## Task
+
+You may use the following substituents:
+
+| Electron-donating | Intermediate | Electron-withdrawing |
+|---|---|---|
+| -N(CH<sub>3</sub>)<sub>2</sub> | -Br | -CHO |
+| -NH<sub>2</sub> | -Cl | -COOH |
+| -OH | -CH<sub>3</sub> | -NO<sub>2</sub> |
+| -OCH<sub>3</sub> | -CF<sub>3</sub> | -CN |
+
 
 - compute the pKa-values of protonated dyes
 - compare computed and measured pKa
