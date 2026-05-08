@@ -14,10 +14,10 @@ You may use the following substituents:
 
 | Electron-donating | Intermediate | Electron-withdrawing |
 |---|---|---|
-| -N(CH<sub>3</sub>)<sub>2</sub> | -Br | -CHO |
-| -NH<sub>2</sub> | -Cl | -COOH |
-| -OH | -CH<sub>3</sub> | -NO<sub>2</sub> |
-| -OCH<sub>3</sub> | -CF<sub>3</sub> | -CN |
+| -N(CH<sub>3</sub>)<sub>2</sub> (dimethylamino) | -Br (bromo) | -CHO (aldehyde) |
+| -NH<sub>2</sub> (amino) | -Cl (chloro) | -COOH (acid) |
+| -OH (hydroxy) | -CH<sub>3</sub> (methyl) | -NO<sub>2</sub> (nitro) |
+| -OCH<sub>3</sub> (methoxy) | -CF<sub>3</sub> (trifluormethyl) | -CN (cyano) |
 
 
 - compute the pKa-values of protonated dyes
