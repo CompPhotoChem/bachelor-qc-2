@@ -10,7 +10,7 @@ feel free to reach out to us in advance to discuss feasibility and scope.
   <tr>
     <td align="center">
       <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/hommes">
-        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/SoSe-2025/projects/proton_transfer/proton_transfer.png" width="250"><br>
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/hommes/project_hommes.png" width="250"><br>
        proton transfer in mixed dimers <br> and trimers of HF and H<sub>2</sub>O
       </a>
     </td>
