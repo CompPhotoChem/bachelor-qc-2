@@ -24,8 +24,8 @@ feel free to reach out to us in advance to discuss feasibility and scope.
   <tr>
     <td align="center">
       <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/imhof">
-        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/imhof/imhof.png" width="250"><br>
-        test <br> test
+        <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/imhof/project_imhof.png" width="250"><br>
+        Acid-Base equilibrium and <br> basicity of ammonia
       </a>
     </td>
     <td align="center">
