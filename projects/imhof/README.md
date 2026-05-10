@@ -1,4 +1,4 @@
-# Abschlussprojekt 3
+# Abschlussprojekt 2
 
 **supervisor**: Prof. Petra Imhof
 
