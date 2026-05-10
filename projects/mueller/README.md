@@ -1,4 +1,4 @@
-# Abschlussprojekt 2
+# Abschlussprojekt 3
 ## Substituent Effects on the Low-Energy Absorption Features of Benzene
 
 **supervisor:** Prof. Carolin Müller
