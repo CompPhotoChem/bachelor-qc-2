@@ -71,6 +71,9 @@ Make a suggestion how to achieve di-substituted benzene with most red-absorbing 
 <details>
 <summary><strong>Tips</strong></summary>
 <br>
+The experimental absorption spectra benzene (A01) and a selection of substituted benzenes can be displayed and downloaded for
+comparison to the simulations at the <a href="https://www.photochemcad.com/databases/common-compounds/aromatic-hydrocarbons"> PhotoChemCAD (compound class A) Website</a>.
+<br><br>
 What are the excitation energies and oscillator strengths for similarly categorized transitions for the 5 compounds?
 <br><br>
 Which structure absorbs stronger at lower energies (higher wavelengths), why?
