@@ -40,12 +40,9 @@ Choosing a chloro and nitro substituent could instead lead to:
 - 1-chloro-2-nitrobenzene
 - 1-chloro-4-nitrobenzene
 
-
-For each molecule, you will calculate the absorption spectrum, identify the relevant low-energy π → π* absorption features, and discuss how the type, number, and relative position of the substituents influence the absorption compared to benzene.
-
 ## Task
 
-Compute the electronic absorption properties, i.e. vertical excitation energies and oscillator strengths for your set of dyes and benzene at the same level of theory (e.g. at TDDFT level or EOM-CCSD level of theory, see [Orca's documentation on 'UVVis spectroscopy'](https://www.faccts.de/docs/orca/6.0/tutorials/spec/UVVis.html)).
+Compute the electronic absorption properties, i.e. vertical excitation energies and oscillator strengths for your set of substituted benzenes and the unsubstituted benzene at the same level of theory (e.g. at TDDFT level or EOM-CCSD level of theory, see [Orca's documentation on 'UVVis spectroscopy'](https://www.faccts.de/docs/orca/6.0/tutorials/spec/UVVis.html)).
 
 |      | Task                                      | Solvent        | Method         | Notes                                 |
 |------|-------------------------------------------|----------------|----------------|---------------------------------------|
@@ -54,6 +51,8 @@ Compute the electronic absorption properties, i.e. vertical excitation energies 
 | 6,7,8,9,10 | TDDFT Calculations for the minimum geometries of benzene and it's substited variants | Benzene  | TD-B3LYP/def2-TZVP, D3 | Absorption spectra |
 
 ## Report
+
+Identify the relevant low-energy absorption features (e.g. ππ* or charge transfer features), and discuss how the type, number and (relative) position of the substituents influence the absorption properties compared to benzene.
 
 > [!IMPORTANT]
 > a) Compile for the bright optical transitions (oscillator strengths > 0.1) in the visible spectral window between 350 and 800 nm the following properties:
