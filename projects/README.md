@@ -17,7 +17,7 @@ feel free to reach out to us in advance to discuss feasibility and scope.
     <td align="center">
       <a href="https://github.com/CompPhotoChem/bachelor-qc-2/tree/main/projects/mueller">
         <img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/mueller/project_mueller.png" width="250"><br>
-        Substituent Effects on the <br> low-enery absorption of benzenes
+        Substituent Effects on the <br> low-energy absorption of benzenes
       </a>
     </td>
     </tr>
