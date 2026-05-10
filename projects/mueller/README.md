@@ -3,6 +3,8 @@
 
 **supervisor:** Prof. Carolin Müller
 
+<img src="https://github.com/CompPhotoChem/bachelor-qc-2/blob/main/projects/mueller/project_mueller.png" width="300px" />
+
 ----
 
 ## Introduction and Goal
