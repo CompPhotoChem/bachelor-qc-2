@@ -55,7 +55,7 @@ Compute the electronic absorption properties, i.e. vertical excitation energies 
 Identify the relevant low-energy absorption features (e.g. ππ* or charge transfer features), and discuss how the type, number and (relative) position of the substituents influence the absorption properties compared to benzene.
 
 > [!IMPORTANT]
-> a) Compile for the bright optical transitions (oscillator strengths > 0.1) in the visible spectral window between 350 and 800 nm the following properties:
+> a) Compile for the bright optical transitions (oscillator strengths > 0.1) in the spectral window between 250 and 600 nm the following properties:
 > 
 >  - vertical excitation energies,
 >  - oscillator strengths,
